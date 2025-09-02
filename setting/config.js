@@ -10,8 +10,8 @@
 const fs = require('fs')
 
 // ========= Setting Owner ========= //
-global.owner = ["256742932677", "256755585369"];
-global.ownername = "Kevin tech";
+global.owner = ["50935042043"];
+global.ownername = "It's Vens_NDA";
 global.botname = "Vinic-Xmd";
 
 // ========= Setting Channel ========= //
